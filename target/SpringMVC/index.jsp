@@ -9,6 +9,5 @@
     <br>
     <a href="/people/new">Add new person</a>
     <br>
-    <a href="/test-batch-update">Checking person multiple adding</a>
 </body>
 </html>
